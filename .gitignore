@@ -1,0 +1,6 @@
+#Logs
+*.log  
+
+#Dependency directories
+# Window
+.Ds_Store
